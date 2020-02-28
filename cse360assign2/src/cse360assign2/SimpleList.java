@@ -6,10 +6,10 @@ package cse360assign2;
  * This program creates a list with functions to add and element,
  *  remove an element, return the number of elements, search for 
  *  an element in the list, append an element, return the first 
- *  element, and return the numebr of elements in the list.
+ *  element, and return the number of elements in the list.
  */
 
-public class SimpleList 
+public class SimpleList
 {
 	/*
 	 * list is the integer array
