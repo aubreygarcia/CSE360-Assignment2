@@ -3,6 +3,8 @@ package cse360assign2;
 /*
  * Class ID: 303
  * Aubrey Garcia
+ * URL: https://github.com/aubreygarcia/CSE360-Assignment2.git
+ * Path: cse360assign2/src/cse360assign2/SimpleList.java
  * This program creates a list with functions to add and element,
  *  remove an element, return the number of elements, search for 
  *  an element in the list, append an element, return the first 
